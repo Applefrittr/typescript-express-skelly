@@ -6,7 +6,7 @@ Typescript Express Skelly is a bare-bones scaffold to get an Express server up a
 
 Setting up a project with express-generator has been one of the go to ways to get an Express server up and running quickly, especially for newer developers in the Node.js ecosystem. From there, the user can add/remove dependencies as the application evolves. HOWEVER, express-generator does not support typescript out of the box. The goal was to make something lightweight (not bloated with dependencies which the developer may not need) and keep the relative simplicity of express-generator all while supporting typescript from the jump.
 
-Ideally catered to newer developers in the Node.js ecosystem. Some other repositories aimed at setting up an Express server already come with auth configurations, database connectivity, abstraction layers, etc. w/ daunting directory setups that may seem difficult to understand for folks dipping their toes into Node for the first time. Of course, more experienced folks are welcome to use it as well! Keep it simple!
+Ideally catered to newer developers in the Node.js ecosystem. Some other repositories aimed at setting up an Express server already come with auth configurations, database connectivity and ORM/ODM, various abstraction layers, etc. w/ daunting directory setups that may seem difficult to understand for folks dipping their toes into Node for the first time. Of course, more experienced folks are welcome to use it as well! Keep it simple!
 
 ## Features
 
