@@ -1,9 +1,9 @@
 {
-  "name": "api",
+  "name": "typescript-express-skelly",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": " tsc && DEBUG=api:* node ./dist",
+    "start": " tsc && DEBUG=typescript-express-skelly:* node ./dist",
     "dev": "nodemon --watch src -e ts,js --exec 'npm run start'"
   },
   "dependencies": {
@@ -12,8 +12,7 @@
     "dotenv": "^16.4.5",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
-    "morgan": "~1.9.1",
-    "pg": "^8.13.1"
+    "morgan": "~1.9.1"
   },
   "devDependencies": {
     "@types/cookie-parser": "^1.4.7",
