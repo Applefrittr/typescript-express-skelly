@@ -11,6 +11,7 @@ Ideally catered to newer developers in the Node.js ecosystem. Some other reposit
 ## Features
 
 - same dependencies as express-generator (morgan, http-errors, debug, cookie-parser)
+- cors added
 - templating removed
 - nodemon setup
 - typescript
